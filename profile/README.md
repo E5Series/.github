@@ -13,7 +13,7 @@ The devices that we support are the:
       - Motorola Moto E5 Plus { ahannah }    
       - Motorola Moto E5 Plus { rhannah }    
 
-    [Telegram Channel](https://t.me/E5Series)    
-    [Telegram Support](https://t.me/E5SeriesSupport)    
-    [Telegram Testing](https://t.me/+m5YpptVAy4VlMTRh)    
+- [Telegram Channel](https://t.me/E5Series)    
+- [Telegram Support](https://t.me/E5SeriesSupport)    
+- [Telegram Testing](https://t.me/+m5YpptVAy4VlMTRh)    
 

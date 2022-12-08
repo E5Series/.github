@@ -5,7 +5,7 @@
 Here you can find the sources to get a build for devices of the Motorola Moto E5 phone line.  
 This source is beging updated day by day so we have Testing branch for all repository so we can make testing of things on that branch, if u want to make a build we recommend you to do a build based in non testing branches.  
 this testing branches need to be tested so if u want to be a tester u can join to our Telegram Testing Group or for general support join to our Telegram Support Group. we also have a Telegram News Channel from where u can find last news of the developerment for this devices.  
-The devices that we support are the:
+The devices that we support are the:    
       - Motorola Moto E5 { nora }    
       - Motorola Moto E5 Play { james }    
       - Motorola Moto E5 Play GO { pettyl }    
